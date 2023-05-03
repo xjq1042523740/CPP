@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "construct_and_destruct", "construct_and_destruct\construct_and_destruct.vcxproj", "{F6C444C4-6132-4F8E-8CCE-CA8C5E422DC6}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "new_dynamic_memory", "new_dynamic_memory\new_dynamic_memory.vcxproj", "{5AB2549B-9D83-4175-A558-FEAF37E3C2A4}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "friends", "friends\friends.vcxproj", "{A095D7FD-4131-40AD-94FE-E79494715EB0}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "singleton pattern", "singleton pattern\singleton pattern.vcxproj", "{82411881-3BD4-4FE0-99F6-FEF15DCD927E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6C444C4-6132-4F8E-8CCE-CA8C5E422DC6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F6C444C4-6132-4F8E-8CCE-CA8C5E422DC6}.Debug|Win32.Build.0 = Debug|Win32
+		{F6C444C4-6132-4F8E-8CCE-CA8C5E422DC6}.Release|Win32.ActiveCfg = Release|Win32
+		{F6C444C4-6132-4F8E-8CCE-CA8C5E422DC6}.Release|Win32.Build.0 = Release|Win32
+		{5AB2549B-9D83-4175-A558-FEAF37E3C2A4}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5AB2549B-9D83-4175-A558-FEAF37E3C2A4}.Debug|Win32.Build.0 = Debug|Win32
+		{5AB2549B-9D83-4175-A558-FEAF37E3C2A4}.Release|Win32.ActiveCfg = Release|Win32
+		{5AB2549B-9D83-4175-A558-FEAF37E3C2A4}.Release|Win32.Build.0 = Release|Win32
+		{A095D7FD-4131-40AD-94FE-E79494715EB0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A095D7FD-4131-40AD-94FE-E79494715EB0}.Debug|Win32.Build.0 = Debug|Win32
+		{A095D7FD-4131-40AD-94FE-E79494715EB0}.Release|Win32.ActiveCfg = Release|Win32
+		{A095D7FD-4131-40AD-94FE-E79494715EB0}.Release|Win32.Build.0 = Release|Win32
+		{82411881-3BD4-4FE0-99F6-FEF15DCD927E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{82411881-3BD4-4FE0-99F6-FEF15DCD927E}.Debug|Win32.Build.0 = Debug|Win32
+		{82411881-3BD4-4FE0-99F6-FEF15DCD927E}.Release|Win32.ActiveCfg = Release|Win32
+		{82411881-3BD4-4FE0-99F6-FEF15DCD927E}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

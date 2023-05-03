@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "polymorphic", "polymorphic\polymorphic.vcxproj", "{E694FE44-C6F9-42F2-AF7B-C11B0C53AD1F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "abstract_class", "abstract_class\abstract_class.vcxproj", "{6BA0C7F0-73AA-4C33-943B-59D3E8C34BA3}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "template_method_model", "template_method_model.cpp\template_method_model.cpp.vcxproj", "{49475043-C9C2-47A4-A7DB-D64E799A98B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E694FE44-C6F9-42F2-AF7B-C11B0C53AD1F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E694FE44-C6F9-42F2-AF7B-C11B0C53AD1F}.Debug|Win32.Build.0 = Debug|Win32
+		{E694FE44-C6F9-42F2-AF7B-C11B0C53AD1F}.Release|Win32.ActiveCfg = Release|Win32
+		{E694FE44-C6F9-42F2-AF7B-C11B0C53AD1F}.Release|Win32.Build.0 = Release|Win32
+		{6BA0C7F0-73AA-4C33-943B-59D3E8C34BA3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6BA0C7F0-73AA-4C33-943B-59D3E8C34BA3}.Debug|Win32.Build.0 = Debug|Win32
+		{6BA0C7F0-73AA-4C33-943B-59D3E8C34BA3}.Release|Win32.ActiveCfg = Release|Win32
+		{6BA0C7F0-73AA-4C33-943B-59D3E8C34BA3}.Release|Win32.Build.0 = Release|Win32
+		{49475043-C9C2-47A4-A7DB-D64E799A98B0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{49475043-C9C2-47A4-A7DB-D64E799A98B0}.Debug|Win32.Build.0 = Debug|Win32
+		{49475043-C9C2-47A4-A7DB-D64E799A98B0}.Release|Win32.ActiveCfg = Release|Win32
+		{49475043-C9C2-47A4-A7DB-D64E799A98B0}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

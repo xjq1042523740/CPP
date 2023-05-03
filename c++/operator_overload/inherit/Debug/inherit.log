@@ -1,0 +1,20 @@
+﻿生成启动时间为 2022/11/4 20:36:38。
+     1>项目“C:\Users\XJQ\Desktop\笔记、程序、其他文件\c++\operator_overload\inherit\inherit.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“Debug\inherit.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         D:\Visual stdio2010\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt inherit.cpp
+         inherit.cpp
+       Link:
+         D:\Visual stdio2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\XJQ\Desktop\笔记、程序、其他文件\c++\operator_overload\Debug\inherit.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\inherit.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\XJQ\Desktop\笔记、程序、其他文件\c++\operator_overload\Debug\inherit.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\XJQ\Desktop\笔记、程序、其他文件\c++\operator_overload\Debug\inherit.lib" /MACHINE:X86 Debug\inherit.obj
+         inherit.vcxproj -> C:\Users\XJQ\Desktop\笔记、程序、其他文件\c++\operator_overload\Debug\inherit.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\XJQ\Desktop\笔记、程序、其他文件\c++\operator_overload\Debug\inherit.exe;#1" /manifest Debug\inherit.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在删除文件“Debug\inherit.unsuccessfulbuild”。
+         正在对“Debug\inherit.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\Users\XJQ\Desktop\笔记、程序、其他文件\c++\operator_overload\inherit\inherit.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.70
